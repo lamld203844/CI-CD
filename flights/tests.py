@@ -1,5 +1,3 @@
-from ast import Pass
-from urllib import response
 from django.db.models import Max
 from django.test import TestCase, Client
 from .models import Airport, Flight, Passenger

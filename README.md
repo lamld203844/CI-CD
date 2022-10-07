@@ -1,1 +1,1 @@
-# CI-CD practices
+# CI-CD practice
